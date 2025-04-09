@@ -4,3 +4,4 @@ Some more adds
 Changing for git stash
 NEw changes added after stash
 This is modified in github
+For remote repo
